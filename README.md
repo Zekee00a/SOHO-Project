@@ -15,3 +15,6 @@ The SOHO project focused on setting up and configuring a Small Office/Home Offic
 - Cisco Packet Tracer
 
 ### Topology and .pkt File
+- [`SOHO Project.pkt`](./SOHO%20Project.pkt)
+
+![image alt](https://github.com/Zekee00a/SOHO-Project/blob/main/SOHO.png?raw=true)
